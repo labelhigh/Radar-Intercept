@@ -1,0 +1,5 @@
+{
+  "name": "Radar Intercept",
+  "description": "A real-time strategy defense game where you act as an anti-air missile operator. Monitor your radar, identify and destroy incoming aerial threats with a variety of missiles, and protect your base from destruction.",
+  "requestFramePermissions": []
+}
